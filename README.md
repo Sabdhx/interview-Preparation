@@ -9,6 +9,7 @@
     - Higher-Order Functions & Functional Programming
     - ES6+ Features (Destructuring, Spread, Rest, etc.)
     - Modules (ES Modules, CommonJS)
+    
 2. *Data Structures & Algorithms*
     - Arrays, Objects, Sets, Maps
     - Linked Lists, Stacks, Queues
