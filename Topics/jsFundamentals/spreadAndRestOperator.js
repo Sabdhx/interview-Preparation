@@ -19,8 +19,9 @@ restFuntion(3,54,6,7,8,9);
 
 
 
-const user = [{ name: 'Alice', age: 25 },{ name: 'Alice', age: 25 },{ name: 'Alice', age: 25 }];
-console.log(...user)
+const user = { name: 'Alice', age: 25 };
+ const  {name, age} = user;
+ console.log("name is "+name)
 
 const person = { name: 'John', age: 30 };
 const updatedPerson = { ...person, age: 31 };
